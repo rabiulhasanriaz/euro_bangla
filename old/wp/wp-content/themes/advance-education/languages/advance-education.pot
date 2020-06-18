@@ -1,0 +1,610 @@
+# <!=Copyright (C) 2019 Themeshopy
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance Education 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeshopy <support@themeshopy.com>\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../advance-education\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: 404.php:13
+msgid 'Not Found'
+msgstr ""
+
+#: 404.php:14
+msgid 'Looks like you have taken a wrong turn&hellip'
+msgstr ""
+
+#: 404.php:15 
+#: no-results.php:21
+msgid 'Dont worry&hellip it happens to the best of us'
+msgstr ""
+
+#: 404.php:17
+msgid 'Back to Home Page'
+msgstr ""
+
+#: archive.php:38 
+#: archive.php:67
+#: archive.php:98
+#: archive.php:134
+#: archive.php:166
+#: image.php:38 
+#: image.php:66 
+#: image.php:96 
+#: image.php:123
+#: image.php:154 
+#: index.php:39 
+#: index.php:63 
+#: index.php:89 
+#: index.php:111
+#: index.php:134 
+#: search.php:36 
+#: search.php:62 
+#: search.php:90
+#: search.php:115
+#: search.php:144 
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:39
+#: archive.php:68
+#: archive.php:99
+#: archive.php:135
+#: archive.php:167
+#: image.php:39
+#: image.php:67 
+#: image.php:97 
+#: image.php:124
+#: image.php:155 
+#: index.php:40
+#: index.php:64 
+#: index.php:90 
+#: index.php:112
+#: index.php:135 
+#: search.php:37 
+#: search.php:63 
+#: search.php:91
+#: search.php:116
+#: search.php:145 
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:40
+#: archive.php:69
+#: archive.php:100
+#: archive.php:136
+#: archive.php:168
+#: image.php:40
+#: image.php:68 
+#: image.php:98 
+#: image.php:125
+#: image.php:156 
+#: index.php:41
+#: index.php:65 
+#: index.php:91 
+#: index.php:113
+#: index.php:136 
+#: search.php:38 
+#: search.php:64 
+#: search.php:92
+#: search.php:117
+#: search.php:146 
+msgid 'page'
+msgstr ""
+
+#: comments.php:28
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:38
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:68
+msgid 'Comments are closed'
+msgstr ""
+
+#: footer.php:51
+msgid 'Copyright 2018'
+msgstr ""
+
+#: functions.php:31
+msgid 'Primary Menu'
+msgstr ""
+
+#: functions.php:64
+msgid 'Thank you for choosing ThemeShopy. We are sincerely obliged to offer our best services to you. Please proceed towards welcome page and give us the privilege to serve you.'
+msgstr ""
+
+#: functions.php:65
+msgid 'Click here...'
+msgstr ""
+
+#: functions.php:72
+msgid 'Blog Sidebar'
+msgstr ""
+
+#: functions.php:73
+#: functions.php:83
+msgid 'Appears on blog page sidebar'
+msgstr ""
+
+#: functions.php:82
+msgid 'Page Sidebar'
+msgstr ""
+
+#: functions.php:92
+msgid 'Third Column Sidebar'
+msgstr ""
+
+#: functions.php:93
+msgid 'Appears on page sidebar'
+msgstr ""
+
+#: functions.php:105
+msgid 'Footer Nav '
+msgstr ""
+
+#: functions.php:258
+msgid 'Education WordPress Theme.'
+msgstr ""
+
+#: header.php:21
+msgid 'Skip to content'
+msgstr "" 
+
+#: header.php:47
+msgid 'MY ACCOUNT'
+msgstr ""
+
+#: header.php:56
+msgid 'Open Menu'
+msgstr ""
+
+#: no-results.php:11
+msgid 'Nothing Found'
+msgstr ""
+
+#: no-results.php:15
+msgid 'Ready to publish your first post? Get started here'
+msgstr ""
+
+#: no-results.php:17
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords'
+msgstr ""
+
+#: no-results.php:22
+msgid 'Return to Home Page'
+msgstr ""
+
+#: search.php:21
+#: search.php:47 
+#: search.php:75 
+#: search.php:100
+#: search.php:129 
+msgid 'Results For: %s'
+msgstr ""
+
+#: searchform.php:12
+#: searchform.php:14
+msgid 'Search'
+msgstr ""
+
+#: searchform.php:12
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:14
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:11
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:17
+msgid 'Meta'
+msgstr ""
+
+#: template-parts/content-single.php:24
+#: template-parts/content-audio.php:47
+#: template-parts/content-gallery.php:36
+#: template-parts/content-image.php:27
+#: template-parts/content-video.php:46
+#: template-parts/content.php:27
+#: template-parts/grid-layout.php:28
+msgid '0 Comment'
+msgstr ""
+
+#: template-parts/image-layout.php:33
+msgid 'Pages:'
+msgstr ""
+
+#: template-parts/image-layout.php:47
+msgid 'Parent post link'
+msgstr ""
+
+#: single.php:31
+#: single.php:55
+#: single.php:82
+#: single.php:106
+#: single.php:134
+#: template-parts/image-layout.php:47
+msgid 'Next'
+msgstr ""
+
+#: single.php:32
+#: single.php:56
+#: single.php:83
+#: single.php:107
+#: single.php:135
+#: template-parts/image-layout.php:48
+msgid 'Next post:'
+msgstr ""
+
+#: single.php:33
+#: single.php:57
+#: single.php:84
+#: single.php:108
+#: single.php:136
+#: template-parts/image-layout.php:50
+msgid 'Previous'
+msgstr ""
+
+#: single.php:34
+#: single.php:58
+#: single.php:85
+#: single.php:109
+#: single.php:137
+#: template-parts/image-layout.php:51
+msgid 'Previous post:'
+msgstr ""
+
+#: page-template/custom-front-page:40
+#: template-parts/content-audio.php:56
+#: template-parts/content-gallery.php:45
+#: template-parts/content-image.php:36
+#: template-parts/content-video.php:55
+#: template-parts/content.php:36
+#: template-parts/grid-layout.php:37
+msgid 'READ MORE'
+msgstr ""
+
+#: page-template/custom-front-page:97
+msgid 'APPLY NOW'
+msgstr ""
+
+#: template-parts/image-layout.php:38
+msgid 'Edit'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:21
+msgid 'Description of what this panel does.'
+msgstr ""
+
+#: inc/customizer.php:27
+msgid 'Theme Color Option'
+msgstr ""
+
+#: inc/customizer.php:36
+msgid 'One can change complete theme color on just one click.'
+msgstr ""
+
+#: inc/customizer.php:43
+msgid 'Typography'
+msgstr ""
+
+#: inc/customizer.php:54
+msgid 'Paragraph Color'
+msgstr ""
+
+#: inc/customizer.php:68
+msgid 'Paragraph Fonts'
+msgstr ""
+
+#: inc/customizer.php:78
+msgid 'Paragraph Font Size'
+msgstr ""
+
+#: inc/customizer.php:90
+msgid '"a" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:104
+msgid '"a" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:115
+msgid '"li" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:129
+msgid '"li" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:140
+msgid 'H1 Color'
+msgstr ""
+
+#: inc/customizer.php:154
+msgid 'H1 Fonts'
+msgstr ""
+
+#: inc/customizer.php:165
+msgid 'H1 Font Size'
+msgstr ""
+
+#: inc/customizer.php:177
+msgid 'H2 Color'
+msgstr ""
+
+#: inc/customizer.php:191
+msgid 'H2 Fonts'
+msgstr ""
+
+#: inc/customizer.php:202
+msgid 'H2 Font Size'
+msgstr ""
+
+#: inc/customizer.php:214
+msgid 'H3 Color'
+msgstr ""
+
+#: inc/customizer.php:228
+msgid 'H3 Fonts'
+msgstr ""
+
+#: inc/customizer.php:239
+msgid 'H3 Font Size'
+msgstr ""
+
+#: inc/customizer.php:251
+msgid 'H4 Color'
+msgstr ""
+
+#: inc/customizer.php:265
+msgid 'H4 Fonts'
+msgstr ""
+
+#: inc/customizer.php:276
+msgid 'H4 Font Size'
+msgstr ""
+
+#: inc/customizer.php:288
+msgid 'H5 Color'
+msgstr ""
+
+#: inc/customizer.php:302
+msgid 'H5 Fonts'
+msgstr ""
+
+#: inc/customizer.php:313
+msgid 'H5 Font Size'
+msgstr ""
+
+#: inc/customizer.php:325
+msgid 'H6 Color'
+msgstr ""
+
+#: inc/customizer.php:339
+msgid 'H6 Fonts'
+msgstr ""
+
+#: inc/customizer.php:350
+msgid 'H6 Font Size'
+msgstr ""
+
+#: inc/customizer.php:358
+msgid 'Layout Settings'
+msgstr ""
+
+#: inc/customizer.php:364
+#: inc/customizer.php:373
+msgid 'Default'
+msgstr ""
+
+#: inc/customizer.php:369
+msgid 'Container Box'
+msgstr ""
+
+#: inc/customizer.php:370
+msgid 'Here you can change the Width layout.'
+msgstr ""
+
+#: inc/customizer.php:374
+msgid 'Container'
+msgstr ""
+
+#: inc/customizer.php:375
+msgid 'Box Container'
+msgstr ""
+
+#: inc/customizer.php:381
+#: inc/customizer.php:390
+msgid 'Right Sidebar'
+msgstr ""
+
+#: inc/customizer.php:386
+msgid 'Change Layouts'
+msgstr ""
+
+#: inc/customizer.php:389
+msgid 'Left Sidebar'
+msgstr ""
+
+#: inc/customizer.php:391
+msgid 'One Column'
+msgstr ""
+
+#: inc/customizer.php:392
+msgid 'Grid Layout'
+msgstr ""
+
+#: inc/customizer.php:398
+msgid 'Topbar Section'
+msgstr ""
+
+#: inc/customizer.php:399
+msgid 'Add topbar content'
+msgstr ""
+
+#: inc/customizer.php:411
+msgid 'Show / Hide Topbar'
+msgstr ""
+
+#: inc/customizer.php:421
+msgid 'Sticky Header'
+msgstr ""
+
+#: inc/customizer.php:430
+msgid 'Mail Address'
+msgstr ""
+
+#: inc/customizer.php:440
+msgid 'Phone Number'
+msgstr ""
+
+#: inc/customizer.php:450
+msgid 'Timing Text'
+msgstr ""
+
+#: inc/customizer.php:457
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:468
+msgid 'Show / Hide slider'
+msgstr ""
+
+#: inc/customizer.php:479
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:480
+msgid 'Size of image should be 1600 x 633'
+msgstr ""
+
+#: inc/customizer.php:488
+msgid 'Popular Courses'
+msgstr ""
+
+#: inc/customizer.php:489
+msgid 'Add section below.'
+msgstr ""
+
+#: inc/customizer.php:498
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:522
+msgid 'Select Category to display post'
+msgstr ""
+
+#: inc/customizer.php:523
+msgid 'Size of image should be 370 x 240'
+msgstr ""
+
+#: inc/customizer.php:529
+msgid 'Blog Page Settings'
+msgstr ""
+
+#: inc/customizer.php:539
+msgid 'Post Date'
+msgstr ""
+
+#: inc/customizer.php:549
+msgid 'Comments'
+msgstr ""
+
+#: inc/customizer.php:559
+msgid 'Author'
+msgstr ""
+
+#: inc/customizer.php:569
+msgid 'Single Post Tags'
+msgstr ""
+
+#: inc/customizer.php:581
+msgid 'Excerpt length'
+msgstr ""
+
+#: inc/customizer.php:597
+msgid 'Add Button Text'
+msgstr ""
+
+#: inc/customizer.php:604
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:615
+msgid 'Footer widget area'
+msgstr ""
+
+#: inc/customizer.php:617
+msgid 'Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets.'
+msgstr ""
+
+#: inc/customizer.php:619
+msgid 'One'
+msgstr ""
+
+#: inc/customizer.php:620
+msgid 'Two'
+msgstr ""
+
+#: inc/customizer.php:621
+msgid 'Three'
+msgstr ""
+
+#: inc/customizer.php:622
+msgid 'Four'
+msgstr ""
+
+#: inc/customizer.php:631
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:642
+msgid 'Show / Hide Scroll To Top'
+msgstr ""
+
+#: inc/customizer.php:647
+#: inc/customizer.php:656
+msgid 'Right'
+msgstr ""
+
+#: inc/customizer.php:652
+msgid 'Scroll To Top Position'
+msgstr ""
+
+#: inc/customizer.php:655
+msgid 'Left'
+msgstr ""
+
+#: inc/customizer.php:657
+msgid 'Center'
+msgstr ""
+
+#: inc/customizer.php:741
+msgid ''Education Pro Theme' 
+msgstr ""
+
+#: inc/customizer.php:721
+msgid 'Go Pro'
+msgstr ""

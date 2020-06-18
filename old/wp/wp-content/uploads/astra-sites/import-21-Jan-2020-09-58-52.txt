@@ -1,0 +1,5 @@
+
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Batch Process Complete!
